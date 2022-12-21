@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 	<h1>Hi! I'm <a href="https://github.com/jc-padua">Jork Cedric Padua</a>! 🙇🏻</h1>
-	<div>an aspiring software engineer;</div>
+	<img src="https://img.shields.io/badge/aspiring-software%20engineer-blue"/>
+<!-- 	<div>an aspiring software engineer;</div> -->
+	<br/>
 	<br />
 	<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
 	<a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -23,11 +25,10 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/jork-cedric-padua-4118a9206/"><img src="https://img.shields.io/badge/Li-JorkCedricPadua-eba0ac?style=for-the-badge&logo=linkedin" /></a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=jc-padua&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api?username=jc-padua&hide_rank=true&show_icons=true&theme=tokyonight"/>
   <br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-padua&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-padua&hide_title=true&langs_count=8&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
-<br/>
 <br/>
 
 <h4>- 🔭 I’m currently working on my fvcking school projects.</h4>
