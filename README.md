@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my school projects and capstone.
 - 🌱 I’m currently learning JavaScript and Flask Framework.
 - 👯 I’m looking to collaborate on a small projects for learning purposes.
-- 💬 Ask me about something you want to know.
-- ⚡ Fun fact: Me
+<!-- - 💬 Ask me about something you want to know. -->
+<!-- - ⚡ Fun fact: Me -->
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
