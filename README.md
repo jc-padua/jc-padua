@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on my fvcking school projects.
-- 🌱 I’m currently learning JavaScript and Flask Framework.
-- 👯 I’m looking to collaborate on a few small projects for learning purposes.
+<h4>- 🔭 I’m currently working on my fvcking school projects.</h4>
+<h4>- 🌱 I’m currently learning JavaScript and Flask Framework.</h4>
+<h4>- 👯 I’m looking to collaborate on a few small projects for learning purposes.</h4>
 <!-- - 💬 Ask me about something you want to know. -->
 <!-- - ⚡ Fun fact: Me -->
 
