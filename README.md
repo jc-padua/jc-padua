@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <br/>
-<br/>
 
 <h4>- 🔭 I’m currently working on my fvcking school projects.</h4>
 <h4>- 🌱 I’m currently learning JavaScript and Flask Framework.</h4>
