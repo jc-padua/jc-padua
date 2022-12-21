@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on my school projects and capstone.
+- 🔭 I’m currently working on my school projects and capstone project.
 - 🌱 I’m currently learning JavaScript and Flask Framework.
-- 👯 I’m looking to collaborate on a small projects for learning purposes.
+- 👯 I’m looking to collaborate on a few small projects for learning purposes.
 <!-- - 💬 Ask me about something you want to know. -->
 <!-- - ⚡ Fun fact: Me -->
 
