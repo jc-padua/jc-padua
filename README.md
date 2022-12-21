@@ -5,17 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 <div align="center">
-	<h1>Hi! I'm <a href="https://github.com/jc-padua">Jork Cedric Padua</a>!</h1>
+	<h1>Hi! I'm <a href="https://github.com/jc-padua">Jork Cedric Padua</a>! 🙇🏻</h1>
 	<div>an aspiring software engineer;</div>
 	<br />
 	<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -33,3 +26,16 @@ Here are some ideas to get you started:
   <br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-padua&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
+<br/>
+<br/>
+<br/>
+
+- 🔭 I’m currently working on my school projects and capstone.
+- 🌱 I’m currently learning JavaScript and Flask Framework.
+- 👯 I’m looking to collaborate on a small projects for learning purposes.
+- 💬 Ask me about something you want to know.
+- ⚡ Fun fact: Me
+
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 📫 How to reach me:  -->
+<!-- - 😄 Pronouns: ... -->
