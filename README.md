@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<h1>Hi! I'm <a href="https://github.com/jc-padua">Jork Cedric Padua</a>! 🙇🏻</h1>
 	<img style="width: 15rem"src="https://img.shields.io/badge/aspiring-software%20engineer-blue"/>
-<!-- 	<div>an aspiring software engineer;</div> -->
+<!-- 	<div>an aspiring software developer;</div> -->
 	<br/>
 	<br />
 	<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
