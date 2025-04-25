@@ -1,43 +1,20 @@
+<h1 align="center">Hi 👋, I'm Jork Cedric Padua</h1>
+<h3 align="center">Not an expert—just someone who loves crafting amazing UIs and is learning the DevOps side of things one step at a time."</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-padua&label=Profile%20views&color=104b70&style=flat" alt="jc-padua" /> </p>
 
-<!--
-**jc-padua/jc-padua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **AWS Cloud Practitioner/DevOps**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **jcflores.padua@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jc-padua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jc-padua" height="30" width="40" /></a>
+<a href="https://fb.com/jcflores.padua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jcflores.padua" height="30" width="40" /></a>
+<a href="https://instagram.com/jrkpadua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrkpadua" height="30" width="40" /></a>
+</p>
 
--->
-<div align="center">
-	<h1>Hi! I'm <a href="https://github.com/jc-padua">Jork Cedric Padua</a>! 🙇🏻</h1>
-<!-- 	<img style="width: 15rem"src="https://img.shields.io/badge/aspiring-software%20developer-blue"/> -->
-<!-- 	<div>an aspiring software developer;</div> -->
-	<br/>
-	<br />
-	<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-	<a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-	<a href="#"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
-	<br />
-	<a href="https://github.com/jc-padua"><img src="https://img.shields.io/github/stars/jc-padua?color=cdd6f4&label=GITHUB&style=for-the-badge&logo=github" /></a>
-	<a href="mailto:jcflores.padua@gmail.com"><img src="https://img.shields.io/badge/EMAIL-jcflores.padua@gmail.com-b4befe?style=for-the-badge&logo=gmail" /></a>
-	<a href="https://www.linkedin.com/in/jork-cedric-padua-4118a9206/"><img src="https://img.shields.io/badge/Li-JorkCedricPadua-eba0ac?style=for-the-badge&logo=linkedin" /></a>
-	<br />
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=jc-padua&hide_rank=true&show_icons=true&theme=tokyonight"/>
-  <br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-padua&hide_title=true&langs_count=8&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-</div>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h4>- 🔭 I’m currently working on my school projects.</h4>
-<h4>- 🌱 I’m currently learning JavaScript and Flask Framework.</h4>
-<h4>- 👯 I’m looking to collaborate on a few small projects.</h4>
-<!-- - 💬 Ask me about something you want to know. -->
-<!-- - ⚡ Fun fact: Me -->
-
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me:  -->
-<!-- - 😄 Pronouns: ... -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jc-padua&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="jc-padua" /></p>
