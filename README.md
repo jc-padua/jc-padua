@@ -1,5 +1,8 @@
+<!-- ![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW44bHowMzJ0cTB2djU2YzhveW5hZWZ3dzk3eHRwZzJjdzd0ZnBnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif) -->
+
 <h1 align="center">Hi 👋, I'm Jork Cedric Padua</h1>
 <h3 align="center">Not an expert—just someone who loves crafting amazing UIs and is learning the DevOps side of things one step at a time."</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhiZDZoZ2JucGdteHlrc2dvN2Z2cHd2OTVqYnptYXhocGw4aW4wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-padua&label=Profile%20views&color=104b70&style=flat" alt="jc-padua" /> </p>
 
